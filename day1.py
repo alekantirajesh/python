@@ -30,7 +30,7 @@ h="hi"+d+e+'welcome'
 
 
 
-i="hello  world "
+i="hello  worlds hello "
 
 print(i[::-1])
 print(i[0])
